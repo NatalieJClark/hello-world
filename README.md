@@ -7,4 +7,4 @@
 ## Aims
 
 - [x] Learn how to set up a Spring Boot app
-- [x] Learn how to agg templates to my web app with Thymeleaf
+- [x] Learn how to add templates to my web app with Thymeleaf
