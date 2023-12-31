@@ -11,5 +11,8 @@
 - [x] Learn how to add templates to my web app with Thymeleaf
 
 ## Setup
-Start a server running on port 8080 by going to the Gradle tab then `hello-world -> Tasks -> application -> bootRun`  
-Then visit `localhost:8080` in your browser
+```java
+// Start a server running on port 8080 by going to the Gradle tab then hello-world -> Tasks -> application -> bootRun
+
+// Then visit localhost:8080 in your browser
+```
